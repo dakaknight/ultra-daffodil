@@ -16,7 +16,7 @@ params:
         url: /blog
         style: link
       - type: action
-        label: About
+        label: BODA BODA
         url: /about
         style: link
       - type: action
