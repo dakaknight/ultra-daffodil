@@ -12,7 +12,7 @@ params:
         url: /features
         style: link
       - type: action
-        label: Blog
+        label: PODCASTS
         url: /blog
         style: link
       - type: action
