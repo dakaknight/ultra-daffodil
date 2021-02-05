@@ -27,6 +27,7 @@ params:
         label: Contact Us
         url: /contact
         style: primary
+    logo: /images/THE CREATIVE ASYLUM LOGO-01.png
   footer:
     type: footer
     has_nav: true
