@@ -26,6 +26,18 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
+  - type: cta_section
+    title: This Is A CTA
+    subtitle: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
+      quis lorem malesuada luctus.
+    actions:
+      - type: action
+        label: Learn More
+        url: /features
+        style: primary
+    has_background: true
+    background_color: gray
   - type: features_section
     title: Features
     features:
@@ -78,17 +90,5 @@ sections:
     title: What's New
     show_recent: true
     recent_count: 3
-  - type: cta_section
-    title: This Is A CTA
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    actions:
-      - type: action
-        label: Learn More
-        url: /features
-        style: primary
-    has_background: true
-    background_color: gray
 layout: advanced
 ---
