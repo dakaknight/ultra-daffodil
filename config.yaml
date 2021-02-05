@@ -20,7 +20,7 @@ params:
         url: /about
         style: link
       - type: action
-        label: Style Guide
+        label: EVENTS
         url: /style-guide
         style: link
       - type: action
