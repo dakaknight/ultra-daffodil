@@ -5,7 +5,8 @@ sections:
     title: 'Our Misson:'
     subtitle: >-
       To foster a culture of people that ask questions and solve everyday
-      problems to grow, disrupt and foster the future of Africa.
+      problems to grow, disrupt and foster the future of Africa. Welcome to the
+      Madhouse.
     actions:
       - type: action
         label: Learn More
