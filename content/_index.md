@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: 'Our Misson:'
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      To foster a culture of people that ask questions and solve everyday
+      problems to grow, disrupt and foster the future of Africa.
     actions:
       - type: action
         label: Learn More
