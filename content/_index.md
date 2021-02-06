@@ -3,10 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: 'Our Misson:'
-    subtitle: >-
-      To foster a culture of people that ask questions and solve everyday
-      problems to grow, disrupt and foster the future of Africa. Welcome to the
-      Madhouse.
+    subtitle: 'To inspire, teach creative'
     actions:
       - type: action
         label: Learn More
