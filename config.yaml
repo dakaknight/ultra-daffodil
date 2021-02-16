@@ -20,10 +20,6 @@ params:
         url: /about
         style: link
       - type: action
-        label: EVENTS
-        url: /style-guide
-        style: link
-      - type: action
         label: Contact Us
         url: /contact
         style: primary
