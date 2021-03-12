@@ -8,10 +8,6 @@ params:
     has_nav: true
     nav_links:
       - type: action
-        label: ABOUT
-        url: /features
-        style: link
-      - type: action
         label: PODCASTS
         url: /blog
         style: link
