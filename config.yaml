@@ -14,7 +14,7 @@ params:
         new_window: true
       - type: action
         label: BODA BODA
-        url: /about
+        url: /bodaboda
         style: link
         new_window: true
       - type: action
