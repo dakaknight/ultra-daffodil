@@ -9,7 +9,7 @@ params:
     nav_links:
       - type: action
         label: PODCASTS
-        url: /blog
+        url: /
         style: link
         new_window: true
       - type: action
