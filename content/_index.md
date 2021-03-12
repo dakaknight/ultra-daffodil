@@ -49,7 +49,7 @@ sections:
           individuals from Africa talking about their process, how they overcome
           challenges and how they bare inspired by the world around them
         align: left
-        image: images/feature.svg
+        image: /images/pexels-cottonbro-6878183.jpg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
