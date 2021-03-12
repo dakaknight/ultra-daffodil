@@ -3,7 +3,10 @@ title: Home
 sections:
   - type: hero_section
     title: 'About Us:'
-    subtitle: 'To inspire, teach creative'
+    subtitle: >-
+      The creative asylum is an organization part of the BOHX group of companies
+      with a passion for education, talent Showcase, Community development and
+      Creative content Distribution in Africa.
     actions:
       - type: action
         label: Learn More
