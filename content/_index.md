@@ -28,7 +28,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - type: cta_section
-    title: This Is A CTA
+    title: Our Misson
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
