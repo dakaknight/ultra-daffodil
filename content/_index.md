@@ -30,8 +30,8 @@ sections:
   - type: cta_section
     title: Our Misson
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      To help creators connect to an audience because when people come together
+      to see a creation change happens.
     actions:
       - type: action
         label: Learn More
