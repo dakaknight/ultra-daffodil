@@ -84,7 +84,7 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: /features
+            url: /bodaboda
             style: secondary
 layout: advanced
 ---
