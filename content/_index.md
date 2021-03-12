@@ -44,10 +44,10 @@ sections:
     features:
       - type: feature
         title: The madhouse podcast
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          The madhouse podcast is a series of interviews with various creative
+          individuals from Africa talking about their process, how they overcome
+          challenges and how they bare inspired by the world around them
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
