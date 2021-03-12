@@ -11,6 +11,7 @@ params:
         label: PODCASTS
         url: /blog
         style: link
+        new_window: true
       - type: action
         label: BODA BODA
         url: /about
