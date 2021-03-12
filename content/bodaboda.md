@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Distribution
 excerpt: lorem-ipsum
 layout: page
 ---
