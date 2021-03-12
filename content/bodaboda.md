@@ -3,9 +3,6 @@ title: Distribution
 excerpt: lorem-ipsum
 layout: page
 ---
-## Lorem ipsum
+Boda-boda currently in the beta stages of its initiation, Boda-boda is a content distribution service for creators in Africa.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+![](/images/pexels-pixabay-209717.jpg)
