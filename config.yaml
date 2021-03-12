@@ -13,7 +13,7 @@ params:
         style: link
       - type: action
         label: BODA BODA
-        url: /about
+        url: /
         style: link
       - type: action
         label: Contact Us
