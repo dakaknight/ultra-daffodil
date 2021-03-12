@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Our Misson:'
+    title: 'About Us:'
     subtitle: 'To inspire, teach creative'
     actions:
       - type: action
