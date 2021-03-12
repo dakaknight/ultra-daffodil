@@ -78,7 +78,7 @@ sections:
           Boda-boda currently in the beta stages of its initiation, Boda-boda is
           a content distribution service for creators in Africa.
         align: left
-        image: images/feature.svg
+        image: /images/pexels-matheus-viana-2372978.jpg
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
