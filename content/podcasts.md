@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: The madhouse podcast
 excerpt: lorem-ipsum
 layout: page
 ---
