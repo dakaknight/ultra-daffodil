@@ -34,7 +34,7 @@ sections:
       to see a creation change happens.
     actions:
       - type: action
-        label: Learn More
+        label: Download Manifesto
         url: /features
         style: primary
     has_background: true
