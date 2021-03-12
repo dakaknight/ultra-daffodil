@@ -17,7 +17,7 @@ sections:
         url: /contact
         style: secondary
     align: left
-    image: /images/hero.svg
+    image: /images/pexels-min-an-853168.jpg
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
