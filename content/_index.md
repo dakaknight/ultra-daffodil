@@ -74,10 +74,9 @@ sections:
             style: secondary
       - type: feature
         title: 'Boda Boda : Distribution'
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          Boda-boda currently in the beta stages of its initiation, Boda-boda is
+          a content distribution service for creators in Africa.
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
