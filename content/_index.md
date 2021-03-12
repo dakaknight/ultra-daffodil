@@ -40,7 +40,7 @@ sections:
     has_background: true
     background_color: gray
   - type: features_section
-    title: Features
+    title: Content we create.
     features:
       - type: feature
         title: Feature 1
