@@ -43,7 +43,7 @@ sections:
     title: Content we create.
     features:
       - type: feature
-        title: Feature 1
+        title: The madhouse podcast
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
