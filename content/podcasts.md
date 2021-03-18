@@ -9,7 +9,7 @@ The madhouse podcast is a monthly series of interviews with various creative ind
 
 ---
 
-### Podcast epiosde 1 : The story of Addmaya
+#### Podcast epiosde 1 : The story of Addmaya
 
 [Episode link](https://cutt.ly/Vxq00yu)
 
