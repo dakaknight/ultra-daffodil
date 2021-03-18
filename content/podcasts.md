@@ -11,7 +11,8 @@ The madhouse podcast is a monthly series of interviews with various creative ind
 
 Podcast epiosde 1
 
-
+In this episode of madhouse we talk to Peter the founder of Addmaya a production company based in Kampala about the inspiration of starting the company, building its reputation and how they overcame all the challenges and failure.
+Website : www.addmaya.com
 
 ---
 
