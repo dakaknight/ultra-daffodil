@@ -18,7 +18,7 @@ params:
         style: link
         new_window: true
       - label: FILMS & DOCS
-        url: lorem-ipsum
+        url: /
         style: link
         new_window: false
         no_follow: false
