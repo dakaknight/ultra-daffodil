@@ -12,7 +12,7 @@ Short films and documentaries about the creative process of various indvidauls a
 
 Story : A mini-documentary fo rally driver and mechanic Andrew Musoke.
 
-
+[![](http://img.youtube.com/vi/ma8_BVbGEPc/0.jpg)](http://www.youtube.com/watch?v=ma8_BVbGEPc "The Mechanic")
 
 
 ---
