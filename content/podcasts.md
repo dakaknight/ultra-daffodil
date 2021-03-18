@@ -66,7 +66,7 @@ In this Episode of Madhouse we speak to Clare Musila the creative director and o
 
 ---
 
-#### Podcast epiosde 6 : The Story of Ruka Jewellery
+#### Podcast epiosde 6 : The Story of Media 256
 
 [Episode link](https://cutt.ly/nxq5cBG)
 
