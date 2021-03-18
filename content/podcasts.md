@@ -39,7 +39,7 @@ Podcast epiosde 3 : The story of Nova Media with Kye Makyeli
 
 In this Episode of Madhouse we speak to Kye Makyeli about how she got into PR and events marketing and how it has been for her  so far with all the cool opportunities that have come along as she grows her business
 
-[Check out Addmaya's work](www.addmaya.com) 
+[Check out Addmaya's work](https://cutt.ly/ixq3Ddx) 
 
 ---
 
