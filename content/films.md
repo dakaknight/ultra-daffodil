@@ -10,9 +10,7 @@ Short films and documentaries about the creative process of various indvidauls a
 ---
 ### The Mechanic
 
-Story : 
-
-A mini-documentary fo rally driver and mechanic Andrew Musoke.
+Story : A mini-documentary fo rally driver and mechanic Andrew Musoke.
 
 
 ---
