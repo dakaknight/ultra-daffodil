@@ -56,7 +56,7 @@ In this Episode of Madhouse we speak to Edison Muhwezi AKA "The sound guy "about
 
 ---
 
-Podcast epiosde 5 : The Story of Ruka Jewellery
+#### Podcast epiosde 5 : The Story of Ruka Jewellery
 
 [Episode link](https://cutt.ly/nxq42CE)
 
