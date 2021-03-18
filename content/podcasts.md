@@ -70,7 +70,7 @@ In this Episode of Madhouse we speak to Clare Musila the creative director and o
 
 [Episode link](https://cutt.ly/nxq5cBG)
 
-In this Episode of Madhouse we speak to Clare Musila the creative director and owner of Ruka jewellery about how she got her start into jewellery design  her challenges and values and how she plans to grow her business.
+In this Episode of Madhouse, we speak to Oboth Isaac the CEO of Media 256 about how he got his start into film and video his challenges and values and how he plans to tell the story.
 
 ---
 
