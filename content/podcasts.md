@@ -27,7 +27,7 @@ Podcast epiosde 2 : Victor Hatega,CTS® : How it all started.
 
 In this Episode of Madhouse we speak to Victor Hatega,CTS® about how he got into stage design and how it has been for him so far with all the cool opportunities that have come along as he grows in his craft.
 
-[Check out Victor work](www.victorhatega.com/) 
+[Check out Victor's work](www.victorhatega.com/) 
 
 ---
 
