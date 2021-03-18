@@ -47,7 +47,7 @@ In this Episode of Madhouse we speak to Kye Makyeli about how she got into PR an
 
 Podcast epiosde 4 : The story of the sound guy with Edison Muhwezi
 
-[Episode link](https://cutt.ly/Vxq00yu)
+[Episode link](https://cutt.ly/uxq4IQc)
 
 In this Episode of Madhouse we speak to Edison Muhwezi AKA "The sound guy "about how he got into audio engineering for live events and how it has been for him  so far with all the cool opportunities he has been graced to work on.
 
