@@ -19,5 +19,15 @@ In this episode of madhouse we talk to Peter the founder of Addmaya a production
 
 ---
 
+---
 
+Podcast epiosde 1 : The story of Addmaya
+
+[Episode link](https://cutt.ly/Vxq00yu)
+
+In this episode of madhouse we talk to Peter the founder of Addmaya a production company based in Kampala about the inspiration of starting the company, building its reputation and how they overcame all the challenges and failure.
+
+[Check out Addmaya's work](www.addmaya.com) 
+
+---
 
