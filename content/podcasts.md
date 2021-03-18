@@ -35,7 +35,7 @@ In this Episode of Madhouse we speak to Victor Hatega,CTS® about how he got int
 
 Podcast epiosde 3 : The story of Nova Media with Kye Makyeli
 
-[Episode link](https://cutt.ly/Vxq00yu)
+[Episode link](https://cutt.ly/6xq4LxN)
 
 In this Episode of Madhouse we speak to Kye Makyeli about how she got into PR and events marketing and how it has been for her  so far with all the cool opportunities that have come along as she grows her business
 
