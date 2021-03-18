@@ -63,7 +63,5 @@ Podcast epiosde 5 : The Story of Ruka Jewellery
 
 In this Episode of Madhouse we speak to Clare Musila the creative director and owner of Ruka jewellery about how she got her start into jewellery design  her challenges and values and how she plans to grow her business.
 
-[Check out Addmaya's work](www.addmaya.com) 
-
 ---
 
