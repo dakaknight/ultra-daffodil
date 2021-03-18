@@ -3,9 +3,6 @@ title: Films and documentaries.
 excerpt: lorem-ipsum
 layout: page
 ---
-## Lorem ipsum
+Short films and documentaries 
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-- Lorem ipsum
-- dolor sit amet
+Short films and documentaries about the creative process of various indvidauls and stories that inspired there creations.
