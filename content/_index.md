@@ -51,7 +51,7 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: /features
+            url: /podcasts
             style: secondary
       - type: feature
         title: Films and mini documentaries
