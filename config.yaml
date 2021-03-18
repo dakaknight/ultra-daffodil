@@ -16,7 +16,7 @@ params:
         label: BODA BODA
         url: /bodaboda
         style: link
-        new_window: true
+        new_window: false
       - label: FILMS & DOCS
         url: /films
         style: link
