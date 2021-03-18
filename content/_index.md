@@ -9,7 +9,6 @@ sections:
       Creative content Distribution in Africa.
     actions:
       - type: action
-        label: Contact Us
         url: /contact
         style: secondary
     align: left
