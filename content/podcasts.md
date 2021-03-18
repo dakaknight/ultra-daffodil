@@ -33,7 +33,7 @@ In this Episode of Madhouse we speak to Victor Hatega,CTS® about how he got int
 
 ---
 
-Podcast epiosde 2 : The story of Addmaya
+Podcast epiosde 3 : The story of Addmaya
 
 [Episode link](https://cutt.ly/Vxq00yu)
 
