@@ -45,7 +45,7 @@ In this episode of madhouse we talk to Peter the founder of Addmaya a production
 
 ---
 
-Podcast epiosde 1 : The story of Addmaya
+Podcast epiosde 3 : The story of Addmaya
 
 [Episode link](https://cutt.ly/Vxq00yu)
 
