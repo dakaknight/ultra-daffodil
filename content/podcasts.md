@@ -59,7 +59,7 @@ In this Episode of Madhouse we speak to Edison Muhwezi AKA "The sound guy "about
 
 Podcast epiosde 5 : The story of Addmaya
 
-[Episode link](https://cutt.ly/Vxq00yu)
+[Episode link](https://cutt.ly/nxq42CE)
 
 In this episode of madhouse we talk to Peter the founder of Addmaya a production company based in Kampala about the inspiration of starting the company, building its reputation and how they overcame all the challenges and failure.
 
