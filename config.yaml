@@ -41,7 +41,7 @@ params:
         style: link
         new_window: true
       - type: action
-        label: GitHub
+        label: Instagram
         url: 'https://github.com/'
         style: link
         new_window: true
