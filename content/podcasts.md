@@ -61,7 +61,7 @@ Podcast epiosde 5 : The Story of Ruka Jewellery
 
 [Episode link](https://cutt.ly/nxq42CE)
 
-In this episode of madhouse we talk to Peter the founder of Addmaya a production company based in Kampala about the inspiration of starting the company, building its reputation and how they overcame all the challenges and failure.
+In this Episode of Madhouse we speak to Clare Musila the creative director and owner of Ruka jewellery about how she got her start into jewellery design  her challenges and values and how she plans to grow her business.
 
 [Check out Addmaya's work](www.addmaya.com) 
 
