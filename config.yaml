@@ -36,7 +36,7 @@ params:
     has_social: true
     social_links:
       - type: action
-        label: Twitter
+        label: Facebook
         url: 'https://twitter.com/'
         style: link
         new_window: true
