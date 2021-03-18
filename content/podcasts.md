@@ -51,7 +51,6 @@ Podcast epiosde 4 : The story of the sound guy with Edison Muhwezi
 
 In this Episode of Madhouse we speak to Edison Muhwezi AKA "The sound guy "about how he got into audio engineering for live events and how it has been for him  so far with all the cool opportunities he has been graced to work on.
 
-[Check out Addmaya's work](www.addmaya.com) 
 
 ---
 
