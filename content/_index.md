@@ -11,6 +11,7 @@ sections:
       - type: action
         url: /contact
         style: secondary
+        label: Contact us
     align: left
     image: /images/pexels-min-an-853168.jpg
     image_alt: Hero placeholder image
