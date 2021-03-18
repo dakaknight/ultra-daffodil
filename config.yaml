@@ -11,7 +11,7 @@ params:
         label: PODCASTS
         url: /podcasts
         style: link
-        new_window: true
+        new_window: false
       - type: action
         label: BODA BODA
         url: /bodaboda
