@@ -33,7 +33,7 @@ In this Episode of Madhouse we speak to Victor Hatega,CTS® about how he got int
 
 ---
 
-Podcast epiosde 3 : The story of Nova Media with Kye Makyeli
+#### Podcast epiosde 3 : The story of Nova Media with Kye Makyeli
 
 [Episode link](https://cutt.ly/6xq4LxN)
 
