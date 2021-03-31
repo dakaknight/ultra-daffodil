@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: What other say about us
 excerpt: lorem-ipsum
 layout: page
 ---
