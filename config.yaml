@@ -23,7 +23,7 @@ params:
         new_window: false
         no_follow: false
         type: action
-      - label: lorem-ipsum
+      - label: PRESS
         url: lorem-ipsum
         style: link
         new_window: false
