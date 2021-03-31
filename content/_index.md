@@ -66,7 +66,7 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: /film
+            url: /films
             style: secondary
       - type: feature
         title: 'Boda Boda : Distribution'
