@@ -3,5 +3,8 @@ title: What other say about us
 excerpt: lorem-ipsum
 layout: page
 ---
-*   Music in Africa: Monthly Events
-*   <https://www.musicinafrica.net/magazine/uganda-creative-asylum-now-monthly-event>
+![](/images/martinglover.jpg)
+
+## Music in Africa: Monthly Events
+
+<https://www.musicinafrica.net/magazine/uganda-creative-asylum-now-monthly-event>
