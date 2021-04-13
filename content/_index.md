@@ -28,11 +28,7 @@ sections:
     subtitle: >-
       To help creators connect to an audience because when people come together
       to see a creation change happens.
-    actions:
-      - type: action
-        label: Download Manifesto
-        url: /features
-        style: primary
+    actions: []
     has_background: true
     background_color: gray
   - type: features_section
